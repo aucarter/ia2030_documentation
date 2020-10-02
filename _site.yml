@@ -1,0 +1,12 @@
+name: "ia2030_documentation"
+title: "IA2030 Vaccine Impact Estimates Documentation"
+description: |
+  IA2030 Vaccine Impact Estimates Documentation
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
