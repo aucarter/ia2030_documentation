@@ -1,9 +1,10 @@
 name: "ia2030_documentation"
 title: "IA2030 Vaccine Impact Estimates Documentation"
 description: |
-  IA2030 Vaccine Impact Estimates Documentation
+  Organized documentation for the methods use to estimate vaccine impact for IA2030
 output_dir: "docs"
 navbar:
+  logo: images/who-logo.png
   right:
     - text: "Home"
       href: index.html
